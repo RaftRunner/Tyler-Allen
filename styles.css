@@ -199,14 +199,14 @@ p {
 }
 
 .jsdiv {
-  width: 80%;
+  width: 55%;
   height: 20px;
   border-radius: 6px;
   background-color: #0caa21;
 }
 
 .pydiv {
-  width: 80%;
+  width: 70%;
   height: 20px;
   border-radius: 6px;
   background-color: #0caa21;
@@ -227,14 +227,14 @@ p {
 }
 
 .sassdiv {
-  width: 85%;
+  width: 65%;
   height: 20px;
   border-radius: 6px;
   background-color: #0caa21;
 }
 
 .jqdiv {
-  width: 75%;
+  width: 60%;
   height: 20px;
   border-radius: 6px;
   background-color: #0caa21;
@@ -276,14 +276,14 @@ p {
 }
 
 .csharpdiv {
-  width: 75%;
+  width: 65%;
   height: 20px;
   border-radius: 6px;
   background-color: #0caa21;
 }
 
 .cdiv {
-  width: 70%;
+  width: 60%;
   height: 20px;
   border-radius: 6px;
   background-color: #0caa21;
